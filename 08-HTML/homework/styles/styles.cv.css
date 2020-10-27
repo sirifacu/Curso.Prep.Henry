@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    width: 60vw;
+    margin: 0 auto;
+    background: rgb(232, 232, 232);
+    padding: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+h2 {
+    margin-bottom: 5px;
+}
+
+#mainDiv{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+img {
+    width: 24%;
+    margin-left: auto;
+    display: inline-block;
+}
+
+.personalInfo {
+    width: 60%;
+    display: inline-block;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.spanBold {
+    font-weight: bold;
+}
+
+.sectionDiv {
+    margin-top: 70px;
+    margin-bottom: 35px;
+}
+
+.sectionDiv h2 {
+    margin-top: 40px;
+    margin-bottom: 10px;
+    text-align: center;
+    line-height: 10px;
+    color: #333;
+    background: url(./img/lines.png) repeat-x;
+}
+
+.sectionDiv h2 span{
+    background: rgb(232, 232, 232);
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.sectionDiv .data {
+    text-align: center;
+    margin-top:15px;
+}
+
+.sectionDiv .text {
+    text-align: justify;
+    margin-top:15px;
+    text-indent: 15px;
+}

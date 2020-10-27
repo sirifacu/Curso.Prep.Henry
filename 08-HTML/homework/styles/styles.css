@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    justify-content: center;
+    background: url(./img/lines.png);
+    background-attachment: fixed;
+}
+h1 {
+    color: #333;
+}
+h1, h3, h4, a{
+    text-align: center;
+}
+a {
+    display: block;
+}
+li {
+    list-style: none;
+}
+img {
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+#thirdDiv {
+    width: 500px;
+    height: 810px;
+    background: #888;
+    padding: 50px;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    display: block;
+    text-align: center;
+}
