@@ -1,0 +1,6 @@
+Los objetos son un tipo de dato que se usa en JS. Están compuestos por conjuntos de clave valor, es decir, un objeto es un conjunto de claves a las que a cada una se le asigna un valor distinto. Estas claves o propiedades pueden llamarse de la siguiente manera "objeto.propiedad", y los objetos también poseen propiedades por defecto.
+Cuando una de las propiedades del objeto tiene como valor una función, decimos que esa función es un "método". 
+
+El bucle "for" que usabamos para recorrer arrays, no puede ser usado, ya que los objetos no tienen índices. Por eso, existe el bucle "for ... in". Este bucle recorre cada una de las claves del objeto.
+
+Existen dos notaciones para llamar a la claves de los objetos. Una es la notación de puntos (que nombré anteriormente), y se compone del nombre del objeto, seguido de un punto y el nombre de la clave, es decir: "objeto.clave". La otra notación es la de corchetes, que se forma con el nombre del objeto, corchetes, y el nombre de la clave entre comillas dentro de los corchetes, de la siguiente manera: objeto["clave"].

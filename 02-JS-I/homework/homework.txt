@@ -1,0 +1,12 @@
+Variables:
+Las variables sirven para ponerle un nombre a un pedazo de codigo que vamos a estar utilizando varias veces. De esa manera, nos ahorramos escribirlo reiteradas veces, y el código queda más limpio y con menos repeticiones.
+
+Strings:
+Es uno de los varios tipos de datos que existen, las strings son pedazos de texto )compuesto principalmente por números y letras). Se escribe entre comillas.
+
+Funciones:
+Las funciones sirven para englobar acciones en el código que se van a realizar repetidas veces. Estas pueden recibir datos (en forma de argumentos), realizan una acción, y por lo general devuelven algo (return), aunque esto no siempre es necesario.
+
+El operador If sirve para hacer un control de flujo del código. Es decir, si se cumple una condición, el código procede de una manera, y si esa condición no se cumple, el código procede de una manera distinta.
+
+Los valores booleanos son otro del tipo de datos que existen. Sus valores pueden ser únicamente true (positivo) o false (negativo).

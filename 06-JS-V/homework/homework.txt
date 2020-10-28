@@ -1,0 +1,4 @@
+El prototype sirve para establecerle a una clase un método que antes no tenía, y luego de establecerlo, todos los objetos generados por esa clase tendrán esa propiedad.
+
+En una clase, se usa el constructor para decirle a la clase como se construirán todos los objetos que se generen a partir de esa clase. Es decir, el constructor le dice "todos los objetos tendrán este, este y este atributo, y se van a definir en estos argumentos".
+En caso de que la clase tenga herencia de otra, también se explica en el constructor que va a heredar X atributos de una clase anterior.

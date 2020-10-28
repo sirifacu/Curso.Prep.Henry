@@ -1,0 +1,1 @@
+Los arrays, arreglos o matrices son simplmente un conjunto de datos ordenados en posiciones (que las determina un índice). Por lo tanto, en el primer lugar (indice 0) escribimos un dato, en el segundo lugar (indice 1) entra otro dato, y así sucesivamente. Los datos pueden ser de cualquier tipo, y pueden mezclarse los tipos de datos (ya que JS no es un lenguaje de tipado fuerte). 

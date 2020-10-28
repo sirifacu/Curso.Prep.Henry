@@ -1,0 +1,1 @@
+Así como las funciones que son valor de una clave en un objeto se llaman "métodos", las funciones que son un argumento de otra función reciben el nombre de "callbacks". Por lo general las funciones callback no suelen tener nombre.

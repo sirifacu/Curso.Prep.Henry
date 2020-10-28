@@ -1,0 +1,7 @@
+"For" es un bucle que sirve para hacer una acción hasta que una condición deje de cumplirse. Es decir, se da la orden de hacer "A" siempre y cuando "i" cumpla una condición. Por lo tanto, el código va a hacer "A" tantas veces como "i" cumpla la condición establecida. Debemos asegurarnos que en algún momento "i" deje de cumplir la condición, ya que si no el bucle se vuelve infinito.
+
+&& es un operador de comparación. Este puede devolver verdadero o falso, dependiendo de las dos expresiones que esté comparando. Si sólo una expresión no cumple la condición de ser verdadera, entonces el operador devuelve "falso". La única forma de que el operador devuelva verdadero, es que ambas expresiones sean verdadero.
+
+|| es otro operador de comparación, por lo tanto también devuelve "verdadero o falso". En este operador, en cambio, si sólo una de las expresiones es verdadera, ya devuelve verdadero. La única forma de que devuelva falso es que ambas expresiones sean falsas.
+
+! es un operador que niega la expresión. Sirve para expresar exactamente lo opuesto a lo que la expresión dice.
